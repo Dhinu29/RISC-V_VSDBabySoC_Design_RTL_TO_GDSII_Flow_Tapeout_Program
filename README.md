@@ -32,6 +32,23 @@ All work was done using open-source tools — Icarus Verilog, GTKWave, Ngspice, 
 - SkyWater SKY130 PDK  
 
 ---
+## ⚡Summary Table
+| Section Title | What It Covers | Tools Used |
+|--------------|----------------|------------|
+| End-to-End RTL → GDSII Flow Summary | Complete RTL → GDSII flow overview | Icarus Verilog, Yosys, OpenSTA, OpenROAD, Magic, KLayout, Sky130 PDK |
+| Design Architecture & Block Overview | SoC hierarchy and module connectivity | Draw.io / Excalidraw for block diagram |
+| Toolchain & Flow Configuration | Setup, PDK path, OpenLane configs, scripts | OpenLane, Sky130A PDK, Yosys config, STA SDC files |
+| STA Timing Summary Across Stages | WNS/TNS analysis at multiple stages | OpenSTA (Pre-CTS, Post-CTS, Post-Route) |
+| Physical Design Results | Floorplan, placement, routing, CTS results | OpenROAD/OpenLane (FP → Place → CTS → Route) |
+| DRC / LVS / Antenna Reports | Signoff verification and physical checks | Magic, KLayout, OpenLane DRC/Antenna check |
+| Final GDSII Layout Visuals | Final chip layout screenshots & zooms | KLayout (viewing) / Magic (editing) |
+| Achievements & Milestones | Completed flow deliverables summary | All tools combined output |
+| Challenges Faced & Fixes Applied | Timing closure, routing issues, tool errors | STA debugging in OpenSTA / routing fix in OpenROAD |
+| Future Work & Improvements | Next steps like power optimization, macros | OpenROAD advanced configs / SRAM macros |
+| Key Learnings & Technical Takeaways | What was learned through RTL → GDSII | Static Timing, Floorplan, Routing, GDS signoff knowledge |
+
+
+---
 
 ## 🏁 Final Output
 Generated a **tapeout-ready RISC-V SoC layout (GDSII)** using open-source tools.
