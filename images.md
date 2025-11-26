@@ -1,4 +1,5 @@
-<img width="1911" height="943" alt="ROUTING_!" src="https://github.com/user-attachments/assets/b38077a9-5f79-47dc-b0ab-febbf47870f0" /><img width="1918" height="882" alt="day5_inv_devicevariation_wp7_wn042_spice_compile" src="https://github.com/user-attachments/assets/f174e315-d8e4-4526-9454-4239c27dd857" /># WEEK_0 IMAGES 
+
+# WEEK_0 IMAGES 
 <img width="1592" height="822" alt="GTKWAVE_TOOL_VERIFY" src="https://github.com/user-attachments/assets/8ceb8f6e-1fc4-4a8c-9fd7-39b30ef31506" />
 <img width="1587" height="845" alt="IVERILOG_TOOL_VERIFY" src="https://github.com/user-attachments/assets/bf33b331-2390-40ff-8b3a-4926b01fa40f" />
 <img width="1595" height="852" alt="YOSYS_TOOL_VERIFY" src="https://github.com/user-attachments/assets/93a2aa41-1e6b-4441-9b80-c6fa7e5ab707" />
