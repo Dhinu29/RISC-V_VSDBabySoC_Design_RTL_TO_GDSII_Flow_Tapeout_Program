@@ -20,8 +20,7 @@ All work was done using open-source tools — Icarus Verilog, GTKWave, Ngspice, 
 | **Week 6** | physical design | [GitHub Link](https://github.com/Dhinu29/P_DINESH_WEEK_6_RISC_V_SoC_Tapeout_Program_VSD) | Implemented picorv32a through the stages of Synthesis, Floorplanning, Placement, STA, and CTS.|  ✅ Completed  |
 | **Week 7** | OpenROAD Flow from RTL to GDSII | [GitHub Link](https://github.com/Dhinu29/P_DINESH_WEEK_7_RISC_V_SoC_Tapeout_Program_VSD)|Implemented the complete physical design flow (RTL-to-GDSII) for VSDBabySoC using OpenROAD. | ✅ Completed  |
 | **Week 8** | Multi-Stage Static Timing Analysis | [GitHub Link](https://github.com/Dhinu29/P_DINESH_WEEK_8_RISC_V_SoC_Tapeout_Program_VSD) |As part of the RTL-to-GDSII flow, I performed Static Timing Analysis (STA) at the post-synthesis and post-CTS stages.| ✅ Completed |
-| **Week 9** | 🔜Coming soon | — | _Pending Update_ | ✅ Completed |
-| **Week 10** | 🔜Coming soon | — | _Pending Update_ | ⏳ Pending |
+| **Week 9** | End-to-End RTL → GDSII Flow Summary | [GitHub Link](https://github.com/Dhinu29/P_DINESH_WEEK_8_RISC_V_SoC_Tapeout_Program_VSD) | A complete overview of the full design flow carried out from Verilog RTL to final mask-ready GDSII generation using open-source tools. | ✅ Completed |
 ---
 
 ## 🧩 Tools Used
